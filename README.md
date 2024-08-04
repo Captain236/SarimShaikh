@@ -5,27 +5,27 @@
 Bachelor of computer Application(BCA) Graduate with passioniate in cybersecurity field. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. Passioniate to do lots of hands on project in cybersecurity .
 
 ## Skills 
-(*) Vulnerabilty Analysis
-(*) Peneteration Testing
-(*) Malware Analysis
-(*) Splunk
-(*) Web Application security
-(*) Burpsuite
+Vulnerabilty Analysis ,
+ Peneteration Testing ,
+ Malware Analysis ,
+ Splunk ,
+ Web Application security ,
+ Burpsuite ,
 
 ## Tools
-(*) Wireshark
-(*) Nmap
-(*) Burpsuite
-(*) Static and dynamic Malware Analysis Tools
-(*) Qualys
-(*) Nessus
-(*) Aircrack-ng
+ Wireshark ,
+ Nmap ,
+ Burpsuite ,
+ Static and dynamic Malware Analysis Tools ,
+ Qualys ,
+ Nessus ,
+  Aircrack-ng ,
 and more....
 
 ## Certifications
-CEHV12
-CCNA
-Splunk
+CEHV12 ,
+CCNA ,
+Splunk ,
 
 ## Projects
 Log Analysis using Splunk
