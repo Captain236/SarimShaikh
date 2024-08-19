@@ -29,6 +29,7 @@ Splunk ,
 
 ## Projects
 Log Analysis using Splunk :- https://github.com/Captain236/Splunk-Log-Analysis
+Network Traffic Analysis using wireshark on linux :- https://github.com/Captain236/wireshark-home-lab
 
 
 
