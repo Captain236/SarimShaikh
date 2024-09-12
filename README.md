@@ -30,6 +30,7 @@ Bachelor of computer Application(BCA) Graduate with passioniate in cybersecurity
 ## Projects
 - Log Analysis using Splunk :- https://github.com/Captain236/Splunk-Log-Analysis
 - Network Traffic Analysis using wireshark on linux :- https://github.com/Captain236/wireshark-home-lab
+- Detecting and Investigating Malware Traffic :- https://github.com/Captain236/wireshark-projects-2
 
 
 
